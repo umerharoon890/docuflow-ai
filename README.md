@@ -1,4 +1,3 @@
-````markdown
 # DocuFlow AI
 
 AI-powered invoice processing with automated extraction, validation, human review, and ERP integration.
